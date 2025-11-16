@@ -1,4 +1,4 @@
-<!-- Animated Header Section -->
+<!-- Animated Header Section-->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=500&color=F7A41D&center=true&vCenter=true&multiline=true&width=530&height=70&lines=Hi+there!+I'm+Dev+Pandey+;Welcome+to+my+GitHub+profile!" alt="Animated header" />
   <br/>
