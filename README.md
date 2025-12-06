@@ -44,8 +44,8 @@
     </td>
     <td valign="top" width="40%">
       <b>Most Used Languages</b>
-      <p align="right">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpandey347&layout=compact&theme=gruvbox&hide_border=false&bg_color=00000000" alt="Top Languages" />
+      <p align="centre">
+                <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
       </p>
     </td>
   </tr>
@@ -64,13 +64,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devpandey347&show_icons=true&theme=gruvbox&hide_border=false&bg_color=00000000" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=devpandey347&theme=gruvbox&hide_border=false&background=FFFFFF00" alt="GitHub Streak" />
 </p>
 
-<!--
-**devpandey347/devpandey347** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-<!--
-**devpandey347/devpandey347** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<!-- devpandey347/devpandey347** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile -->
