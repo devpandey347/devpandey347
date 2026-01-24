@@ -61,10 +61,4 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=devpandey347&theme=gruvbox&hide_border=false&background=FFFFFF00" alt="GitHub Streak" />
-</p>
-
 <!-- devpandey347/devpandey347** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile -->
